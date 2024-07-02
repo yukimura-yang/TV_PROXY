@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TVProxy</string>
+    <string name="notification_channel_adb_pairing">无线调试配对</string>
+    <string name="notification_adb_pairing_succeed_title">配对成功</string>
+    <string name="notification_adb_pairing_succeed_text">您现在可以启动 Shizuku 服务了。</string>
+    <string name="notification_adb_pairing_failed_title">配对失败</string>
+    <string name="cannot_connect_port">无法连接至无线调试服务。</string>
+    <string name="paring_code_is_wrong">配对码错误。</string>
+    <string name="adb_error_key_store">无法为无线调试生成密钥。\\n这可能是因为此设备上的 KeyStore 机制已损坏。</string>
+    <string name="notification_adb_pairing_stop_searching">停止搜索</string>
+    <string name="notification_adb_pairing_retry">重试</string>
+    <string name="dialog_adb_pairing_paring_code">配对码</string>
+    <string name="notification_adb_pairing_input_paring_code">输入配对码</string>
+    <string name="notification_adb_pairing_searching_for_service_title">正在搜索配对服务</string>
+    <string name="notification_adb_pairing_service_found_title">已找到配对服务</string>
+    <string name="notification_adb_pairing_working_title">正在进行配对</string>
+</resources>
